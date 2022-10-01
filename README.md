@@ -1,17 +1,15 @@
-# Nome do meu projeto
+# Contador 
 
-Rápida descrição do objetivo de fazer esse projeto
+Um contador bem simples para testes :D
 
-| :placard: Vitrine.Dev |     |
+| :computer: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **ContadorJS**
+| :label: Tecnologias | javascript, html, css (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://faro.edu.br/wp-content/uploads/2018/01/163056-tarefa-para-2201-ate-18h-profissao-de-contador-conheca-os-principais-desafios-dessa-carreira.jpg#vitrinedev)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
